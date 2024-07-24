@@ -1,5 +1,8 @@
 # Kidney Stone Detection
 
+
+## supervisor :
+https://github.com/Anwar-Ali-Sathio
 ## Introduction:
   This project aims to classify kidney stones in CT images using a combination of Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models. The process involves data preparation, model building, training, testing, and the creation of graphical user interfaces (GUIs) for user-friendly interactions.
 
